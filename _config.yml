@@ -6,15 +6,13 @@ url: "https://sarrisv.github.io" # the base hostname & protocol for your site e.
 
 # User settings
 username: Vasilis Ethan Sarris
-user_description: I am a sophomore pursuing a B.S. in Computer Science at the University of Pittsburgh. Since summer of 2019 I have been working part-time at the University of Pittsburgh's LIFE Lab enjoying whatever projects are thrown at me, currently that happens to be applying various methods of Graph Theory analysis on neuroimgaing data.  
+user_description: I am a sophomore pursuing a B.S. in Computer Science at the University of Pittsburgh. Since summer of 2019 I have been working part-time at the University of Pittsburgh's LIFE Lab enjoying whatever projects are thrown at me, currently that happens to be applying various methods of Graph Theory analysis on neuroimaging data.  
 user_title: University Student / Part-Time Research Assitant
 email: vas82@pitt.edu
-twitter_username: lorem_ipsum
 github_username:  sarrisv
-gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-157544690-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
