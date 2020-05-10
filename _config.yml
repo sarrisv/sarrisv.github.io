@@ -2,7 +2,7 @@
 title: Vasilis Ethan Sarris
 description: A personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sarrisv.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://sarrisv.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: Vasilis Ethan Sarris
