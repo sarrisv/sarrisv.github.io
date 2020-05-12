@@ -14,6 +14,6 @@ linkedin_link: https://www.linkedin.com/in/vesarris/
 
 # Google-analytics
 google-analytics:
-  id: "UA-157544690-1"
+  id: UA-157544690-1
 
 exclude: ['package.json', 'src' , 'node_modules']
