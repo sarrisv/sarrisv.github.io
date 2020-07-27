@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        <section id="about">
+            <div class="user-details">
+                <h1>Welcome to my Stuff & Things</h1>
+                <p>This is my ever-evolving collection of links & other things I think are worth saving</p>
+            </div>
+        </section>
+        <div class="collection">
+            {{ content }}
+        </div>
+        {% include footer.html %}
+    </body>
