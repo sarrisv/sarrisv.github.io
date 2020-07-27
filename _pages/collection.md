@@ -1,7 +1,7 @@
 ---
 layout: stuff&things
 title: My Collection of Stuff & Things
-permalink: /collection.html
+permalink: /collection.md
 ---
 
 ## Personal Links (for quick access away from home)
