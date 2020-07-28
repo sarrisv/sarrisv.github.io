@@ -21,6 +21,12 @@ permalink: /collection/
  * [OTHER PEOPLE](https://other-people.net/)
  * [COLORSxSTUDIOS](https://colorsxstudios.com/)
 
+## Poetry / Quotes / Other Writing
+---
+ * [Aal Izz Well]({{site.baseurl}}/collection/writing/rancho.html)
+ * [First they came...]({{site.baseurl}}/collection/writing/niemoller.html)
+ * [Desiderata]({{site.baseurl}}/collection/writing/desiderata.html)
+
 ## Knowledge
 ---
  * [Sci-hub](https://scihub.to/)

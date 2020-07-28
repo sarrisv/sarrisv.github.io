@@ -17,7 +17,7 @@ linkedin_link: https://www.linkedin.com/in/vesarris/
 google-analytics:
   id: UA-157544690-1 
 
-include: ['_pages']
+include: ['_pages', '_writing']
 exclude: ['package.json', 'node_modules', 'README.md', '_workspace.code-workspace', '.gitignore']
 
 markdown: kramdown
