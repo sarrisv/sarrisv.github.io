@@ -19,6 +19,7 @@ permalink: /collection/
 ---
  * [Palestinian Community Radio](https://yamakan.place/palestine/) 
  * [OTHER PEOPLE](https://other-people.net/)
+ * [COLORSxSTUDIOS](https://colorsxstudios.com/)
 
 ## Knowledge
 ---
