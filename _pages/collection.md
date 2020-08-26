@@ -6,7 +6,7 @@ permalink: /collection/
 
 ## Personal Links (for quick access away from home)
 ---
- * [Server Files](http://lw839.usbx.me:9999/)
+ * [Server Files](http://lw839.usbx.me:8888/)
  * [Deluge](https://addict1.lw839.usbx.me/deluge)
 
 ## Visual Art
