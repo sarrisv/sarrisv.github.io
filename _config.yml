@@ -1,24 +1,33 @@
-# Site Settings
+# Site settings
 title: Vasilis Ethan Sarris
-description: A personal website
-url: "https://sarrisv.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
-keyword: Student, Java, Python, Graph Theory, Neo4j, Computer Science, University of Pittsburgh
-username: Vasilis Ethan Sarris
+tagline: Personal Website
+description: Just a place to learn a bit about me and the things I enjoy
+author: Vasilis Ethan Sarris
+# url: "https://sarrisv.github.io"
+# baseurl: "/"
 
-# Personal Settings
-user_description: I am a junior pursuing a B.S. in Computer Science at the University of Pittsburgh. Since summer of 2019 I have been working part-time at the University of Pittsburgh's LIFE
-user_title: Student - Research Assistant - Graph Theory Enthusiast Lab enjoying whatever projects are thrown my way, currently that happens to be applying various methods of Graph Theory analysis on neuroimaging data. I love Computer Science but at the end of the day I just want to work on some interesting problems and hopefully improve some peoples lives along the way.
+# User settings
+user_name: Vasilis Ethan Sarris
+user_title: Student - Research Assistant - Graph Theory Enthusiast 
 email: vas82@pitt.edu
-github_link:  https://github.com/sarrisv/
-linkedin_link: https://www.linkedin.com/in/vesarris/
+github_username: sarrisv
+linkedin_username: vesarris
 
-# Google-Analytics
+# Google-analytics
 google-analytics:
-  id: UA-157544690-1 
+  id: "UA-157544690-1"
+
+social:
+  name: Vasilis Ethan Sarris
+  links:
+    - https://github.com/sarrisv/
+    - https://www.linkedin.com/in/vesarris/
+
+plugins:
+    - jekyll-seo-tag
 
 include: ['_pages', '_writing']
-exclude: ['package.json', 'node_modules', 'README.md', '_workspace.code-workspace', '.gitignore']
+exclude: ['package.json', 'src' , 'node_modules']
 
 markdown: kramdown
 kramdown: 

@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "color": "#000000"
         },
         "polygon": {
-          "nb_sides": 7
+          "nb_sides": 5
         },
         "image": {
           "src": "img/github.svg",
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       "line_linked": {
         "enable": true,
-        "distance": 200,
+        "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,
         "width": 1
@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       "modes": {
         "grab": {
-          "distance": 500,
+          "distance": 400,
           "line_linked": {
             "opacity": 1
           }
@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "size": 40,
           "duration": 2,
           "opacity": 8,
-          "speed": 1
+          "speed": 3
         },
         "repulse": {
           "distance": 200,

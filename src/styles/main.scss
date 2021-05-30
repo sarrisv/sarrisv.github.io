@@ -1,6 +1,7 @@
 @import "lib/normalize";
 @import "lib/fontawesome";
 @import "lib/devicon";
+@import "../../node_modules/@coreui/icons/scss/brand.scss";
 
 @import 'base';
 @import 'vars';
@@ -8,4 +9,5 @@
 @import 'header';
 @import 'about';
 @import 'projects';
+@import 'collection';
 @import 'footer';

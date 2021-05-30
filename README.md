@@ -1,2 +1,3 @@
-# sarrisv.github.io
-Personal Website Repository
+# Personal Website
+
+Heavily modified version of [particle](https://github.com/nrandecker/particle).
