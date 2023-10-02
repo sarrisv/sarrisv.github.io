@@ -137,7 +137,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # the information below.
 giscus:
   repo: sarrisv/sarrisv.github.io      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo_id: MDEwOlJlcG9zaXRvcnkxODA0NTAxODg==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
