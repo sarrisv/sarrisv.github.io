@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sarrisv.github.io//sitemap.xml
+Sitemap: https://vesarris.com//sitemap.xml
