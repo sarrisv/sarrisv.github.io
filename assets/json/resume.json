@@ -12,14 +12,72 @@
       "countryCode": "US",
       "region": "Pennsylvania"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "name": "",
+        "label": "",
+        "picture": "",
+        "email": "",
+        "phone": "",
+        "website": "",
+        "summary": "",
+        "location": {
+          "address": "",
+          "postalCode": "",
+          "city": "",
+          "countryCode": "",
+          "region": ""
+        },
+        "profiles": [
+          {
+            "network": "",
+            "username": "",
+            "url": ""
+          }
+        ],
+        "network": "Github",
+        "username": "sarrisv",
+        "url": "https://github.com/sarrisv"
+      },
+      {
+        "name": "",
+        "label": "",
+        "picture": "",
+        "email": "",
+        "phone": "",
+        "website": "",
+        "summary": "",
+        "location": {
+          "address": "",
+          "postalCode": "",
+          "city": "",
+          "countryCode": "",
+          "region": ""
+        },
+        "profiles": [
+          {
+            "network": "",
+            "username": "",
+            "url": ""
+          }
+        ],
+        "network": "LinkedIn",
+        "username": "vesarris",
+        "url": "https://www.linkedin.com/in/vesarris"
+      }
+    ],
+    "picture": "",
+    "website": ""
   },
   "work": [
     {
-      "name": "School of Computing and Information, University of Pittsburgh",
+      "company": "School of Computing and Information, University of Pittsburgh",
+      "location": "",
+      "description": "",
       "position": "Graduate Teaching Assistant",
-      "url": "https://sci.pitt.edu",
+      "website": "https://sci.pitt.edu",
       "startDate": "2023",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Graded work and lead recitations for various courses in the Computer Science Department."
@@ -34,7 +92,9 @@
       "highlights": [
         "Extended work in Indoor-Outdoor Navigation by creating and implementing multiple novel path finding algorithms.",
         "Published multiple First-author papers on these novel algorithms."
-      ]
+      ],
+      "company": "Advanced Data Management Technologies Lab, University of Pittsburgh",
+      "website": "https://db.cs.pitt.edu"
     },
     {
       "name": "Kovashka Lab, University of Pittsburgh",
@@ -46,7 +106,9 @@
       "highlights": [
         "Explored the effects of pre-processing the input of object recognition models (ResNet, AlexNet, etc.) in such a way that was more akin to the visual cortex.",
         "Preformed domain generalization benchmarks on these models using the standard and modified inputs."
-      ]
+      ],
+      "company": "Kovashka Lab, University of Pittsburgh",
+      "website": "https://people.cs.pitt.edu/~kovashka/"
     },
     {
       "name": "Learning Imaging & Family Experience Lab, University of Pittsburgh",
@@ -58,7 +120,9 @@
       "highlights": [
         "Developed a robust, user-friendly, graph-based fMRI analysis pipeline for the Lab's PhD Students.",
         "Developed multiple web-based tasks for large-scale Psychology studies."
-      ]
+      ],
+      "company": "Learning Imaging & Family Experience Lab, University of Pittsburgh",
+      "website": "http://www.lifelab.pitt.edu"
     },
     {
       "name": "東澳國民小 (Dong'ao Elementary), Nan'ao Township, Yilan County, Taiwan",
@@ -68,59 +132,93 @@
       "summary": "",
       "highlights": [
         "Taught English to 100+ elementary school children grades 1st-5th."
-      ]
+      ],
+      "company": "東澳國民小 (Dong'ao Elementary), Nan'ao Township, Yilan County, Taiwan"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Pittsburgh, Pittsburgh, USA",
-      "url": "https://www.pitt.edu/",
+      "institution": "University of Pittsburgh",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2023",
-      "score": "3.9"
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Data Management Systems",
+        "CV Seminar",
+        "Design and Analysis of Algorithms"
+      ]
     },
     {
-      "institution": "University of Pittsburgh, Pittsburgh, USA",
-      "url": "https://www.pitt.edu/",
+      "institution": "University of Pittsburgh",
       "area": "Computer Science",
       "studyType": "MS",
-      "startDate": "2021",
+      "startDate": "2022",
       "endDate": "2023",
-      "score": "3.9"
+      "gpa": "3.9",
+      "courses": [
+        "WANs",
+        "Compiler Design",
+        "Data Mining",
+        "AI",
+        "HCI",
+        "IoT Seminar"
+      ]
     },
     {
-      "institution": "University of Pittsburgh, Pittsburgh, USA",
-      "url": "https://www.pitt.edu/",
+      "institution": "University of Pittsburgh",
       "area": "Computer Science",
       "studyType": "BS",
       "startDate": "2019",
       "endDate": "2022",
-      "score": "3.5"
+      "gpa": "3.5",
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Systems Software",
+        "Operations Systems",
+        "Intro Computer Vision",
+        "Practical AI",
+        "Intro Compiler Design",
+        "Theory of Computation",
+        "Graph Theory",
+        "Linear Algebra",
+        "Calculus"
+      ]
     }
   ],
   "awards": [],
-  "certificates": [],
   "publications": [],
   "skills": [
     {
-      "name": "Proficient w/:",
+      "name": "Teaching",
+      "level": "Experienced",
       "keywords": [
-        "Python",
-        "C/C++",
-        "Java"
+        "Data Structures / Algorithms (CS0445, CS1501)",
+        "Data Management (CS1555/2055)"
       ]
     },
     {
-      "name": "Experienced w/:",
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Java",
+        "Scala"
+      ],
+      "level": "Proficient"
+    },
+    {
+      "name": "Programming Langauges",
       "keywords": [
         "Rust",
-        "Scala",
         "Bash",
         "SQL / NoSQL",
         "Web Dev (JS / Python)"
-      ]
+      ],
+      "level": "Experienced"
     }
   ],
   "languages": [
@@ -145,11 +243,11 @@
     }
   ],
   "references": [],
-  "projects": [
-    {
-      "name": "CAPRIO",
-      "description": "A Constraint-based Indoor-Outdoor Navigation App",
-      "url": "https://db.cs.pitt.edu/caprio/"
-    }
-  ]
+  "projects": [],
+  "meta": {
+    "canonical": "",
+    "version": "",
+    "lastModified": ""
+  },
+  "certificates": []
 }
