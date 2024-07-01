@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: "___GIO.G: A Generator for Indoor-Outdoor Graphs to Simulate and Analyze Urban Environments___" has been accepted in MDM'24 :tada:
+:tada: "**_GIO.G: A Generator for Indoor-Outdoor Graphs to Simulate and Analyze Urban Environments_**" has been accepted in MDM'24 :tada:

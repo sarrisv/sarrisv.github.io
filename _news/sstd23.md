@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: "___Recommending the Least Congested Indoor-Outdoor Paths without Ignoring Time___" has been accepted in SSTD'23 :tada:
+:tada: "**_Recommending the Least Congested Indoor-Outdoor Paths without Ignoring Time_**" has been accepted in SSTD'23 :tada:
