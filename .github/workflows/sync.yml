@@ -14,9 +14,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v2
+        uses: AndreasAugustin/actions-template-sync@v1
         with:
           github_token: ${{ secrets.SYNC_TOKEN }}
           source_repo_path: alshedivat/al-folio
