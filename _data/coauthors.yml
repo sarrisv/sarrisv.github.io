@@ -1,7 +1,11 @@
-"Chrysanthis":
+"chrysanthis":
   - firstname: ["Panos K."]
     url: https://panos.cs.pitt.edu/
 
-"Costa":
+"costa":
   - firstname: ["Constantinos"]
     url: https://costadb.com/
+
+"nixon":
+  - firstname: ["Brian"]
+    url: https://people.cs.pitt.edu/~btn10/
