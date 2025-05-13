@@ -13,8 +13,8 @@
       {% if page.fast-redirect == true %}
           <meta http-equiv="refresh" content="0; url={{ redirect }}">
       {% else %}
-          <meta http-equiv="refresh" content="3; url={{ redirect }}">
-      {%  endif %}
+        <meta http-equiv="refresh" content="3; url={{ redirect }}">
+      {% endif %}
     {% endif %}
     {% include head.liquid %}
   </head>

@@ -5,8 +5,8 @@ on:
     branches:
       - main # Or the branch you use for your source files (e.g., master, source)
     paths:
-      - '_data/*.typ'
-      - '.github/workflows/compile-typst.yml' # Trigger if the workflow file changes
+      - "_data/*.typ"
+      - ".github/workflows/compile-typst.yml" # Trigger if the workflow file changes
 
 jobs:
   compile:
@@ -25,5 +25,5 @@ jobs:
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: 'Compile Typst files [skip ci]' # Use [skip ci] to prevent infinite workflow loops
-          add: 'assets/pdf/resume.pdf assets/pdf/cv.pdf'
+          message: "Compile Typst files [skip ci]" # Use [skip ci] to prevent infinite workflow loops
+          add: "assets/pdf/resume.pdf assets/pdf/cv.pdf"

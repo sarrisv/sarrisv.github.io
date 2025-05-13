@@ -33,7 +33,7 @@ I was born in Cyprus, grew up outside D.C., and am currently a PhD student in Co
 
 My current research interests lie primarily in database systems. While my initial interests included graph algorithms and spatio-temporal queries, my recent work focuses on making worst-case optimal join algorithms suitable for cloud environments.
 
-During my time at Pitt, I've had the pleasure of being involved with the [ADMT](https://db.cs.pitt.edu/group/), [Kovashka](https://people.cs.pitt.edu/~kovashka/), and [LIFE](http://www.lifelab.pitt.edu/) labs. 
+During my time at Pitt, I've had the pleasure of being involved with the [ADMT](https://db.cs.pitt.edu/group/), [Kovashka](https://people.cs.pitt.edu/~kovashka/), and [LIFE](http://www.lifelab.pitt.edu/) labs.
 Each of these experiences was invaluable, helping me grow both as a person and as a researcher.
 
 Ultimately, I love the research process and just enjoy tackling challenging problems, so if you ever want to discuss research, a fun problem you're working on, or anything else, feel free to reach out via [email](mailto:v.sarris@pitt.edu).

@@ -79,10 +79,7 @@
   ],
   "education": [
     {
-      "courses": [
-        "Algorithms",
-        "Seminars (IoT, AI, CV)"
-      ],
+      "courses": ["Algorithms", "Seminars (IoT, AI, CV)"],
       "institution": "University of Pittsburgh",
       "url": "https://pitt.edu",
       "area": "Computer Science",
@@ -92,9 +89,7 @@
       "endDate": "Present"
     },
     {
-      "courses": [
-        "Adv DB Systems"
-      ],
+      "courses": ["Adv DB Systems"],
       "institution": "Carnegie Mellon University",
       "url": "https://www.cmu.edu/",
       "area": "Computer Science",
@@ -104,15 +99,7 @@
       "endDate": "2024-12-01"
     },
     {
-      "courses": [
-        "Wide Area Networks",
-        "Compiler Design",
-        "Data Mining",
-        "DBMS",
-        "HCI",
-        "Computer Architecture",
-        "Theory of Computation"
-      ],
+      "courses": ["Wide Area Networks", "Compiler Design", "Data Mining", "DBMS", "HCI", "Computer Architecture", "Theory of Computation"],
       "institution": "University of Pittsburgh",
       "url": "https://pitt.edu",
       "area": "Computer Science",
@@ -162,19 +149,11 @@
   ],
   "interests": [
     {
-      "keywords": [
-        "Join Algorithms",
-        "Query Execution",
-        "Query Optimization"
-      ],
+      "keywords": ["Join Algorithms", "Query Execution", "Query Optimization"],
       "name": "Databases"
     },
     {
-      "keywords": [
-        "Novel Graph Structures",
-        "Data Structures / Representations",
-        "Algorithms"
-      ],
+      "keywords": ["Novel Graph Structures", "Data Structures / Representations", "Algorithms"],
       "name": "Graph / Networks"
     }
   ],
