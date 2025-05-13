@@ -10,8 +10,8 @@
       {% else %}
         {% assign redirect = page.redirect | relative_url %}
       {% endif %}
-      {% if page.fast-redirect == true %}
-          <meta http-equiv="refresh" content="0; url={{ redirect }}">
+      {% if page.fast_redirect == true %}
+        <meta http-equiv="refresh" content="0; url={{ redirect }}">
       {% else %}
         <meta http-equiv="refresh" content="3; url={{ redirect }}">
       {% endif %}
