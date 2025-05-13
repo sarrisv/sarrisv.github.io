@@ -59,9 +59,6 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
-  workflow_run:
-    workflows: [Compile Typst]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -74,6 +71,14 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+
+      - name: Setup Typst ✍️
+        uses: typst-community/setup-typst@v4
+      - name: Compile CV & Resume 📄
+        run: |
+          typst compile --root=./ _data/resume.typ assets/pdf/resume.pdf
+          typst compile --root=./ _data/cv.typ assets/pdf/cv.pdf
+
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
