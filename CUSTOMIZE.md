@@ -3,7 +3,6 @@
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
 <!--ts-->
-
 - [Customize](#customize)
   - [Project structure](#project-structure)
   - [Configuration](#configuration)
@@ -32,7 +31,6 @@ Here we will give you some tips on how to customize the website. One important t
   - [Scheduled Posts](#scheduled-posts)
     - [Name Format](#name-format)
     - [Important Notes](#important-notes)
-
 <!--te-->
 
 ## Project structure
