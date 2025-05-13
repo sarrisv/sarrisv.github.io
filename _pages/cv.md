@@ -1,11 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: default
 title: cv
-nav: true
-nav_order: 5
-cv_pdf: resume.pdf
-description:
-toc:
-  sidebar: left
+permalink: /cv/
+nav: false
+redirect: assets/pdf/cv.pdf
+fast_redirect: true
 ---

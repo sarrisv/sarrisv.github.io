@@ -1,0 +1,29 @@
+name: Compile Typst
+
+on:
+  push:
+    branches:
+      - main # Or the branch you use for your source files (e.g., master, source)
+    paths:
+      - "_data/*.typ"
+      - ".github/workflows/compile-typst.yml" # Trigger if the workflow file changes
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: typst-community/setup-typst@v4
+      - name: Compile resume
+        run: typst compile --root=./ _data/resume.typ assets/pdf/resume.pdf
+      - name: Compile cv
+        run: typst compile --root=./ _data/cv.typ assets/pdf/cv.pdf
+
+      - name: Commit PDF changess
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Compile Typst files [skip ci]" # Use [skip ci] to prevent infinite workflow loops
+          add: "assets/pdf/resume.pdf assets/pdf/cv.pdf"
